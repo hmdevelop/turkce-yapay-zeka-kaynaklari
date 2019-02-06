@@ -219,7 +219,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [A musical information retrieval system for Classical Turkish Music makams
 ](http://journals.sagepub.com/doi/abs/10.1177/0037549717708615?journalCode=simb) (Merve Ayyüce Kızrak, Bülent Bolat)
 
-### Tahmin
+### Tahmin   
 * [Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations](http://www.sciencedirect.com/science/article/pii/S0950705117304252) (Hakan Gündüz, Yusuf Yaslan, Zehra Çataltepe)
 
 ### Siber Güvenlik
